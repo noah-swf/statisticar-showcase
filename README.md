@@ -6,8 +6,41 @@
 
 Dieses Repository dient als Showcase für die Statisticar App und zeigt den aktuellen Entwicklungsstand.
 
-_(Screenshots und kurze GIFs folgen in Kürze)_
+## 🔦 Showcase
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6687d429-c168-4423-90fa-119004cbcf80" alt="Statisticar Screenshot 1: Übersicht" width="250">
+      <p>Garagen Ansicht</p><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9bccffe0-8841-468d-abe2-812687b76027" alt="Statisticar Screenshot 2: Fahrtenbuch" width="250">
+      <p>Auto Ansicht</p><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6bd7e65d-42df-44bb-9e91-483b4fd4d327" alt="Statisticar Screenshot 3: Fahrt hinzufügen" width="250">
+      <p>Statistik Ansicht</p><br>
+    </td>
+  </tr>
+</table>
+
+### In-Action <br>
+      
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 20px">
+      <img src="https://github.com/user-attachments/assets/81ac4360-f247-4531-b9d7-8b73bb42badd" alt="Statisticar: Fahrtaufzeichnung" width="250">
+      <p>Fahrtaufzeichnung</p><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5c4248d1-4173-4bb9-8ed7-fb90ee8ae2d7" alt="Statisticar: Anmeldevorgang mit Email" width="250">
+      <p>Anmeldevorgang per Link</p><br>
+    </td>
+  </tr>
+</table>
+
+    
 
 ## ✨ Features
 
