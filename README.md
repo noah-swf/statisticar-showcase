@@ -30,12 +30,12 @@ Dieses Repository dient als Showcase für die Statisticar App und zeigt den aktu
 <table align="center">
   <tr>
     <td align="center" style="padding: 20px">
-      <img src="https://github.com/user-attachments/assets/81ac4360-f247-4531-b9d7-8b73bb42badd" alt="Statisticar: Fahrtaufzeichnung" width="250">
-      <p>Fahrtaufzeichnung</p><br>
+      <img src="https://github.com/user-attachments/assets/81ac4360-f247-4531-b9d7-8b73bb42badd" alt="Statisticar: Anmeldevorgang per Link" width="250">
+      <p>Anmeldevorgang per Link</p><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5c4248d1-4173-4bb9-8ed7-fb90ee8ae2d7" alt="Statisticar: Anmeldevorgang mit Email" width="250">
-      <p>Anmeldevorgang per Link</p><br>
+      <img src="https://github.com/user-attachments/assets/5c4248d1-4173-4bb9-8ed7-fb90ee8ae2d7" alt="Statisticar: Fahrtaufzeichnung" width="250">
+      <p>Fahrtaufzeichnung</p><br>
     </td>
   </tr>
 </table>
